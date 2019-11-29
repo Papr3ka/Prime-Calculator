@@ -1,0 +1,6 @@
+beta ver 0.0.1
+added base version and setup function
+added imports
+
+beta ver 0.0.0
+Prime Calculator released
