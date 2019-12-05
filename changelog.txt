@@ -1,3 +1,9 @@
+
+ver 0.1.02
+fixed various issues
+added inputs
+added display
+
 beta ver 0.0.1
 added base version and setup function
 added imports
