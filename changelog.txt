@@ -1,3 +1,8 @@
+Prime
+
+stable ver 1.0.03
+added viewing system
+added new option to wait() function
 
 ver 0.1.02
 fixed various issues
