@@ -1,5 +1,10 @@
 Prime
 
+ver 1.1.04
+added time
+added maximum options
+rearranged functions and code
+
 stable ver 1.0.03
 added viewing system
 added new option to wait() function
